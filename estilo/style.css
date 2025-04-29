@@ -57,7 +57,7 @@ header > p {
   font-size: 1.2em;
   max-width: 600px;
   margin: auto;
-  margin-bottom: 20px;
+  padding-bottom: 25px;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -109,7 +109,7 @@ main h2 {
 }
 
 main p {
-  padding: 15px 0px;
+  margin: 15px 0px;
   text-align: justify;
   text-indent: 20px;
   line-height: 1.2em;
